@@ -1,4 +1,4 @@
-rootProject.name = "Readora"
+rootProject.name = "ReadOut"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
